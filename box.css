@@ -1,0 +1,16 @@
+.navbar{
+    background-color: antiquewhite;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+    border: 8px double pink;
+    box-shadow: 3px 4px 8px 7px lightpink;
+    border-radius: 50px;
+}
+.hero{
+    background-color: beige;
+    padding: 30px;
+    margin-top: 20px;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}

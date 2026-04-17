@@ -7,7 +7,7 @@ h1{
     font-size: 60px;
     text-decoration: line-through;
     text-decoration-color: rgb(10, 129, 137);
-    text-decoration-style: dotted;
+    text-decoration-style: solid;
 }
 .head2{
     color: rgb(160, 49, 197);
@@ -19,4 +19,9 @@ h1{
 .para{
     font-style: oblique;
     font-weight: bold;
+}
+.para1{
+    word-spacing: 20px;
+    letter-spacing: 2px;
+    line-height: 20px;
 }

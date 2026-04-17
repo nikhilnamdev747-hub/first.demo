@@ -1,0 +1,52 @@
+body{
+background-color: rgb(201, 220, 103);
+}
+.pika{ background-color: rgb(232, 241, 73);
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 70px;
+    padding: 30px;
+    border: 8px double palegreen;
+    box-shadow: 3px 4px 10px palegreen;
+    display: flex;
+    margin: 40px;
+
+}
+.text{
+     color: rgb(140, 142, 30);
+   font-style: oblique;
+    font-weight: bold;
+    padding: 10px;
+
+}
+.img{
+
+    box-shadow: 2px 3px 15px 3px palegreen;
+
+    
+}
+
+.rai{
+    background-color: rgb(241, 199, 61);
+    justify-content:space-between;
+    align-items: center;
+    padding: 30px;
+    border-radius: 70px;
+    border: 8px double palegreen;
+    box-shadow:-3px -4px 10px palegreen; 
+    display: flex;
+    margin: 40px;
+    padding-bottom: 40px;
+    padding-top: 40px;
+   
+}
+.text2{
+   
+padding: 20px;
+color: rgb(146, 112, 23);
+}
+.image2{
+    box-shadow: 2px 3px 15px 3px palegreen;
+
+    
+}
